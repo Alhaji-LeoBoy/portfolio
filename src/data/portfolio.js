@@ -13,7 +13,7 @@ export default [
   },
   {
     title: "Ecommerce With Cart",
-    imgUrl: "/assets/w3.png",
+    imgUrl: "./assets/w3.png",
     stack: ["HTML", "CSS", "JavaScript"],
     link: "https://alhaji-leoboy.github.io/ecom/",
   },
