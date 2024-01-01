@@ -1,13 +1,13 @@
 export default [
   {
     title: "Food Website",
-    imgUrl: "/assets/work1.png",
+    imgUrl: "./assets/work1.png",
     stack: ["HTML", "CSS", "JavaScript"],
     link: "https://alhaji-leoboy.github.io/store/",
   },
   {
     title: "Chair Shop Website",
-    imgUrl: "/assets/w2.png",
+    imgUrl: "./assets/w2.png",
     stack: ["HTML", "CSS", "JavaScript"],
     link: "https://alhaji-leoboy.github.io/proa/",
   },
@@ -19,19 +19,19 @@ export default [
   },
   {
     title: "Landing Page",
-    imgUrl: "/assets/w6.png",
+    imgUrl: "./assets/w6.png",
     stack: ["HTML", "CSS", "JavaScript"],
     link: "https://alhaji-leoboy.github.io/growthApp/",
   },
   {
     title: "Basic Resturant",
-    imgUrl: "/assets/w4.png",
+    imgUrl: "./assets/w4.png",
     stack: ["React", "Tailwind", "Vite"],
     link: "https://alhaji-leoboy.github.io/Vr/",
   },
   {
     title: "Bill Split App",
-    imgUrl: "/assets/w5.png",
+    imgUrl: "./assets/w5.png",
     stack: ["React", "Tailwind", "Vite"],
     link: "https://alhaji-leoboy.github.io/billApp/",
   },
