@@ -35,4 +35,10 @@ export default [
     stack: ["React", "Tailwind", "Vite"],
     link: "https://alhaji-leoboy.github.io/billApp/",
   },
+  {
+    title: "Movie Rating Application",
+    imgUrl: "./assets/movie.png",
+    stack: ["Advance React", "Tailwind", "Vite"],
+    link: "https://alhaji-leoboy.github.io/movieRating/",
+  },
 ];
